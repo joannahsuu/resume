@@ -1,14 +1,13 @@
 ## 許靖玟（Joanna HSU）
 
----
 
 - English Name: Joanna Hsu
 - E-mail: joannahsuu@gmail.com
 
----
 
-### WORK
----
+
+## WORK
+
 
 ### 旺旺集團 - 前端工程師（2017/08 - Now）
 
@@ -24,9 +23,9 @@
 - 輔導學生完成申請文件的準備，若有面試需求，給予面試練習及輔導
 - 與美國、加拿大、澳洲學校聯繫學生對學校申請或課程及其他相關的問題
 
----
-### SKILLS
----
+
+## SKILLS
+
 
 ### HTML/CSS/JavaScript
 - CSS3 + Sass 規劃響應式頁面
@@ -43,9 +42,10 @@
 - webpack
 - firebase
 
----
-### SIDE PROJECTS
----
+
+## SIDE PROJECTS
+
+
 - [Personal Website](https://joannahsuu.github.io/portfolio/dist/index.html#/)
   - 一頁式個人網站（RWD）
   - 使用前端框架 Vue.js
